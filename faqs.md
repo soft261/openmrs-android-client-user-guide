@@ -1,8 +1,8 @@
 ## FAQs
 
-### What is the OpenMRS android app?
+### What is the OpenMRS Android app?
 
-You can find out what the OpenMRS android app is and the motivation behind the creation of this app [here](https://github.com/openmrs/openmrs-android-client-user-guide/blob/master/introduction.md).
+You can find out what the OpenMRS Android app is and the motivation behind the creation of this app [here](https://github.com/openmrs/openmrs-android-client-user-guide/blob/master/introduction.md).
 
 ### How do I get started?
 
@@ -36,7 +36,7 @@ Server sync allows you to automatically sync your data on the app with the data 
 
 ### Can I change the server configurations through the app?
 
-It is currently impossible to change server configurations from the mobile app. If you want to do this, you'll have to do it from a computer.
+It is currently impossible to change server configurations from the mobile app. If you want to do this, you'll have to do it from the web interface.
 
 ### What does this word mean?
 
