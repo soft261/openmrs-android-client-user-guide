@@ -4,6 +4,10 @@
 
 You can find out what the OpenMRS android app is and the motivation behind the creation of this app [here](https://github.com/openmrs/openmrs-android-client-user-guide/blob/master/introduction.md).
 
+### How do I get started?
+
+You can find information about installing and using the app [here](https://github.com/openmrs/openmrs-android-client-user-guide/blob/master/getting-started.md).
+
 ### How do I login to the test server?
 
 You can find out how to login to the test server [here](https://github.com/openmrs/openmrs-android-client-user-guide/blob/master/getting-started.md#logging-in).
@@ -33,3 +37,11 @@ Server sync allows you to automatically sync your data on the app with the data 
 ### Can I change the server configurations through the app?
 
 It is currently impossible to change server configurations from the mobile app. If you want to do this, you'll have to do it from a computer.
+
+### What does this word mean?
+
+You can find a glossary of common terms this app uses [here](https://github.com/openmrs/openmrs-android-client-user-guide/blob/master/glossary.md).
+
+### Who should I contact if I'm having a problem?
+
+Contact information can be found [here](https://github.com/openmrs/openmrs-android-client-user-guide/blob/master/contact.md).
